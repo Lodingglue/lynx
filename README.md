@@ -1,13 +1,10 @@
 
 # Lynx Project - A Trinity Product
 
-A mod menu launcher for minecraft for pe 
+A CLONED LIBRARY Loader for MC
 
 
 ![Logo](https://i.postimg.cc/9QFR0rwV/20241220-031254.png)
-
-
-## Documentation
 
 
 
@@ -30,7 +27,23 @@ A mod menu launcher for minecraft for pe
 
 ![App Screenshot](https://i.postimg.cc/CKKmYhs6/image.png)
 
+## How to Build
 
+```> 1. Import project to android studio```
+```> 2. Create A "libs" folder inside app directory```
+```> 3. convert MC/Any Launche/apps dexfiles to jar```
+```> 4. add jnilibs of MC/Your App inside the src```
+```> 5. copy MC/Your App asets and resources into lynx and merge it```
+```> 6. Sync The Project And Build output and done ```
+
+**You can use Any apk eg. Appolon, MC Patched, Diagoldze, Blaze, Toolbox, Atlas, Blaze Launcher etc...**
+
+ ## Dependecies:
+
+1. Mojang Minecraft SRC
+2. ![Google Material 3](https://m3.material.io/)
+3. ![OkHttps3](https://square.github.io/okhttp/)
+4. ![Firebase](https://firebase.google.com/)
 
 
 ## License
@@ -40,5 +53,6 @@ A mod menu launcher for minecraft for pe
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 ## Support
 
-JOIN OUR [DISCORD](https://www.github.com/)
+JOIN [Trinity Discord](https://discord.gg/NtEdN7zBKa)
+JOIN [LYNX Discord](https://discord.gg/QGUTSdc5dr)
 
