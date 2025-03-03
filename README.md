@@ -29,12 +29,12 @@ A CLONED LIBRARY Loader for MC
 
 ## How to Build
 
-```> 1. Import project to android studio```
-```> 2. Create A "libs" folder inside app directory```
-```> 3. convert MC/Any Launche/apps dexfiles to jar```
-```> 4. add jnilibs of MC/Your App inside the src```
-```> 5. copy MC/Your App asets and resources into lynx and merge it```
-```> 6. Sync The Project And Build output and done ```
+> 1. Import project to android studio
+> 2. Create A "libs" folder inside app directory
+> 3. convert MC/Any Launche/apps dexfiles to jar
+> 4. add jnilibs of MC/Your App inside the src
+> 5. copy MC/Your App asets and resources into lynx and merge it
+> 6. Sync The Project And Build output and done 
 
 **You can use Any apk eg. Appolon, MC Patched, Diagoldze, Blaze, Toolbox, Atlas, Blaze Launcher etc...**
 
