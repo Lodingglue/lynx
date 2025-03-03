@@ -1,5 +1,5 @@
 
-# Lynx Project
+# Lynx Project - A Trinity Product
 
 A mod menu launcher for minecraft for pe 
 
@@ -31,9 +31,6 @@ A mod menu launcher for minecraft for pe
 ![App Screenshot](https://i.postimg.cc/CKKmYhs6/image.png)
 
 
-## Authors
-- [@lodingglue](https://www.github.com/lodinnglue)
-- [@ExoCubeYT](https://www.github.com/ExoCubeYT)
 
 
 ## License
